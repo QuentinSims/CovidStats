@@ -1,0 +1,17 @@
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\covid deaths.csv
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\owid-covid-data.csv
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CovidStats.exe
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CovidStats.deps.json
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CovidStats.runtimeconfig.json
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CovidStats.runtimeconfig.dev.json
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CovidStats.dll
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CovidStats.pdb
+C:\Users\ShopDemo\source\repos\CovidStats\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.csproj.AssemblyReference.cache
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.AssemblyInfoInputs.cache
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.AssemblyInfo.cs
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.csproj.CoreCompileInputs.cache
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.csproj.CopyComplete
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.dll
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.pdb
+C:\Users\ShopDemo\source\repos\CovidStats\obj\Debug\netcoreapp3.1\CovidStats.genruntimeconfig.cache

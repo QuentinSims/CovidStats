@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4COeVkb1g1hVbtPYIGT3gZdBKuGwy9ZYxBXQ050RkimPBMyIISD6dWq+Y8SaFaeVsSmYUhVLvHg1dX7cNVVYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ShopDemo\\source\\repos\\CovidStats\\CovidStats.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShopDemo\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\ShopDemo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
